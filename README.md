@@ -35,5 +35,33 @@ Private Chats: Send direct messages to individual users.
 Media Sharing: Share images and files within chat rooms.
 Online/Offline Status: See which users are online or offline.
 
+Screenshot:
+
+![Screenshot (91)](https://github.com/user-attachments/assets/094c5de7-7cf3-4c94-af5e-9dab8690b2ca)
+
+![Screenshot (92)](https://github.com/user-attachments/assets/fcca1f5a-7ffa-44a3-839a-b39ce1f9b68b)
+
+![Screenshot (93)](https://github.com/user-attachments/assets/2e622a62-3b5c-40ad-9ed6-c6bcdc45025b)
+![Screenshot (94)](https://github.com/user-attachments/assets/40eb23bf-2029-4e1b-8986-1fcb8db58936)
+
+![Screenshot (95)](https://github.com/user-attachments/assets/b2e186fb-79f5-4e2f-977a-f30d4942cb8e)
+
+
+![Screenshot (96)](https://github.com/user-attachments/assets/6e53e047-002c-438b-973f-e27875883077)
+![Screenshot (97)](https://github.com/user-attachments/assets/00db88e8-b650-4277-b11e-c8e8a6edb713)
+
+![Screenshot (98)](https://github.com/user-attachments/assets/475c1959-66b7-46bd-a12f-e978096e9533)
+
+![Screenshot (99)](https://github.com/user-attachments/assets/198945da-e433-439e-8c4d-0d45645c3eee)
+
+
+
+
+![Screenshot (100)](https://github.com/user-attachments/assets/e0c54443-8433-4635-8261-4fe3126e3bea)
+
+
+![Screenshot (101)](https://github.com/user-attachments/assets/31998a4e-8733-4863-b2d9-67d3b240677d)
+
+
 
 
