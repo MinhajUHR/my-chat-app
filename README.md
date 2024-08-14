@@ -1,6 +1,8 @@
 # my-chat-app
 A real-time chat application using Socket.IO, Node.js, and Express, designed for seamless communication with modern web technologies.
 
+Description about how I have created:
+
 The "Chat-APP" project began with the goal of creating a real-time chat application that offers seamless communication using modern web technologies. The project was built using HTML, CSS, and JavaScript for the frontend, providing a responsive and user-friendly interface.
 
 For the backend, I used Node.js with Express to handle server-side operations, ensuring efficient processing of requests and smooth data flow. Socket.IO was integrated for real-time communication, enabling instant message delivery and updating across all connected clients.
