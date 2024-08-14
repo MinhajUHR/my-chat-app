@@ -15,5 +15,25 @@ This project has been an excellent opportunity to deepen my understanding of web
 How to Use:
 
 First, clone the repository to your local machine using the following command:
-git clone 
+git clone https://github.com/MinhajUHR/my-chat-app.git
+
+Navigate to the project directory and install the required dependencies using npm:
+cd Chat App
+npm install
+
+Launch the server by running: npm start
+
+
+Open your web browser and navigate to http://localhost:5000 (or the port you specified). You should see the chat interface.
+
+
+Explore Features:
+
+Real-Time Messaging: Chat with other users in real-time.
+Group Chats: Join or create group chat rooms.
+Private Chats: Send direct messages to individual users.
+Media Sharing: Share images and files within chat rooms.
+Online/Offline Status: See which users are online or offline.
+
+
 
