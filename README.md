@@ -10,3 +10,10 @@ For the backend, I used Node.js with Express to handle server-side operations, e
 Throughout the development process, I focused on implementing key features like user authentication, private and group chat rooms, media sharing, and online/offline status indication. I hosted the application using Socket.IO to ensure stable and scalable deployment.
 
 This project has been an excellent opportunity to deepen my understanding of web development and real-time communication technologies.
+
+
+How to Use:
+
+First, clone the repository to your local machine using the following command:
+git clone 
+
